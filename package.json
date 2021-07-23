@@ -30,20 +30,22 @@
     "node": ">=0.10.20"
   },
   "devDependencies": {
-    "mocha": "~2.0.1",
-    "ncp": "~1.0.1"
+    "mocha": "^2.0.1",
+    "ncp": "^1.0.1"
   },
   "dependencies": {
-    "aws-sdk": "~2.4.9",
-    "fd-slicer": "~1.0.0",
-    "findit2": "~2.2.3",
-    "graceful-fs": "~4.1.4",
-    "mime": "~1.2.11",
-    "mkdirp": "~0.5.0",
-    "pend": "~1.2.0",
-    "rimraf": "~2.2.8",
-    "streamsink": "~1.2.0"
+    "aws-sdk": "~2.943.0",
+    "fd-slicer": "^1.1.0",
+    "findit2": "^2.2.3",
+    "graceful-fs": "^4.2.6",
+    "mime": "^2.5.2",
+    "mkdirp": "^1.0.4",
+    "natives": "^1.1.6",
+    "pend": "^1.2.0",
+    "rimraf": "^3.0.2",
+    "streamsink": "^1.2.0"
   },
+  "peerDependencies": {},
   "bugs": {
     "url": "https://github.com/andrewrk/node-s3-client/issues"
   },
